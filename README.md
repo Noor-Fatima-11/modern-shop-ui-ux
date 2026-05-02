@@ -6,6 +6,8 @@ A modern and visually appealing e-commerce mobile app designed for daily shoppin
 ---
 
 ## 🚀 Live Prototype
+<img width="4322" height="2236" alt="e commerce app-modern store" src="https://github.com/user-attachments/assets/aa1fbdfa-f7ca-457a-a87f-bf7a3d4ce1e6" />
+
 
 🔗 [https://www.figma.com/proto/2f4qeK2he2L6oqmoXJxSxQ/e-commerce-app?node-id=20-2](https://www.figma.com/proto/2f4qeK2he2L6oqmoXJxSxQ/e-commerce-app?node-id=20-2)
 
